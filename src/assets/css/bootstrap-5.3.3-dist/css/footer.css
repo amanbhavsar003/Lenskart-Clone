@@ -1,0 +1,62 @@
+.footer-con{
+    background-color: rgb(0, 0, 79);
+    color: snow;
+    padding: 2rem;
+    /* box-sizing: border-box; */
+}
+
+.heading-foot{
+    font-weight: 100 !important;
+    font-size: 30px;
+
+}
+
+.hed{
+    font-size: 20px;
+    border-bottom: 1px solid snow;
+}
+
+.sec-1{
+    display: flex;
+}
+
+.google-play{
+    position: relative;
+    left: 18rem;
+    top: 1rem;
+    display: flex;
+}
+
+.cat-sec-1{
+    margin: 1rem 4rem;
+}
+
+.play-store{
+    margin: 0 2rem;
+}
+
+.play-content{
+    position: relative;
+    margin-left: 60rem;
+    top: -10rem;
+}
+
+.last-foot{
+    display: flex;
+}
+.last-foot p{
+    margin: 0 3rem;
+}
+.social-media-logo{
+    display: flex;
+    font-size: 35px;
+    margin-left: 36rem;
+}
+.social-media-logo p{
+    margin: 0 1rem;
+}
+
+.foot-text{
+    margin-top: 10px;
+    font-size: 16px;
+}
